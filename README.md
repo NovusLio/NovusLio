@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovusLio&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/NovusLio)
