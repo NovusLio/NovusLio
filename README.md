@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovusLio&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovusLio&show_icons=true&theme=dracula)
 -->
 
 [![Novus's github stats](https://github-readme-stats.vercel.app/api?username=NovusLio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
