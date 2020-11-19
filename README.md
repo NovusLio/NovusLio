@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NovusLio&theme=dracula&show_icons=true)
 -->
 
-[![Novus's github stats](https://github-readme-stats.vercel.app/api?username=NovusLio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Novus's github stats](https://github-readme-stats.vercel.app/api?username=NovusLio&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
